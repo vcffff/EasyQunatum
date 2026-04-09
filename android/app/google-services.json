@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18227755258",
+    "project_id": "quantumphysics-508ce",
+    "storage_bucket": "quantumphysics-508ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18227755258:android:338cf2b6fb430c26ca3143",
+        "android_client_info": {
+          "package_name": "com.example.easyquantum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpVMG9q9GRTK9SXUKGly6_a2OizO0vyj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
